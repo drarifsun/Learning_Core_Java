@@ -68,6 +68,8 @@ public class Variables {
 		System.out.println("code = "+code);
 		System.out.println("length = "+length);
 		System.out.println("height = "+height);
-	}
+		
+		
+		}
 	
 }
